@@ -1,20 +1,20 @@
-SpaceLearn - Spaced Repetition Learning Tool
+# SpaceLearn - Spaced Repetition Learning Tool
 
 SpaceLearn is a modern web application designed to help users master new concepts using the Spaced Repetition System (SRS). It utilizes a custom implementation of the SuperMemo-2 (SM-2) algorithm to optimize review intervals and maximize retention.
 
-🌟 Features
+## 🌟 Features
 
-Smart Review Algorithm: Implementation of the SM-2 algorithm to calculate optimal review dates based on user performance.
+* Smart Review Algorithm: Implementation of the SM-2 algorithm to calculate optimal review dates based on user performance.
 
-Concept Management: Create, categorize, and organize learning materials.
+* Concept Management: Create, categorize, and organize learning materials.
 
-Progress Tracking: Visual statistics for daily dues, learned items, and total progress.
+* Progress Tracking: Visual statistics for daily dues, learned items, and total progress.
 
-Daily Motivation: Integrated quote system to keep you motivated during study sessions.
+* Daily Motivation: Integrated quote system to keep you motivated during study sessions.
 
-Responsive Design: Fully responsive UI with dark/light mode support.
+* Responsive Design: Fully responsive UI with dark/light mode support.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * This project was built using a modern, type-safe stack:
 
@@ -30,15 +30,15 @@ Responsive Design: Fully responsive UI with dark/light mode support.
 
 * Validation: Zod & React Hook Form
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-Prerequisites
+### Prerequisites
 
 * Node.js (v18 or higher)
 
 * npm or pnpm
 
-Installation
+### Installation
 
 Clone the repository:
 ```
@@ -66,6 +66,6 @@ npm run dev
 
 Open http://localhost:3000 with your browser to see the result.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
