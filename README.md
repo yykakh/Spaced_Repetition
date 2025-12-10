@@ -41,21 +41,21 @@ npm or pnpm
 Installation
 
 Clone the repository:
-
+```
 git clone [https://github.com/yourusername/space-learn.git](https://github.com/yourusername/space-learn.git)
 cd space-learn
-
+```
 
 Install dependencies:
-
+```
 npm install
-
+```
 
 Initialize the database:
-
+```
 npm run db:push
 npm run db:generate
-
+```
 
 Run the development server:
 
