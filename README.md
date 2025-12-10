@@ -16,27 +16,27 @@ Responsive Design: Fully responsive UI with dark/light mode support.
 
 🛠️ Tech Stack
 
-This project was built using a modern, type-safe stack:
+* This project was built using a modern, type-safe stack:
 
-Framework: Next.js 15 (App Router)
+* Framework: Next.js 15 (App Router)
 
-Language: TypeScript 5
+* Language: TypeScript 5
 
-Styling: Tailwind CSS 4 & shadcn/ui
+* Styling: Tailwind CSS 4 & shadcn/ui
 
-Database: SQLite (via Prisma ORM)
+* Database: SQLite (via Prisma ORM)
 
-State Management: React Hooks & local state
+* State Management: React Hooks & local state
 
-Validation: Zod & React Hook Form
+* Validation: Zod & React Hook Form
 
 🚀 Getting Started
 
 Prerequisites
 
-Node.js (v18 or higher)
+* Node.js (v18 or higher)
 
-npm or pnpm
+* npm or pnpm
 
 Installation
 
