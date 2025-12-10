@@ -51,6 +51,11 @@ Install dependencies:
 npm install
 ```
 
+Set up environment: 
+```
+echo "DATABASE_URL=\"file:./db/dev.db\"" > .env
+```
+
 Initialize the database:
 ```
 npm run db:push
