@@ -59,7 +59,6 @@ echo "DATABASE_URL=\"file:./db/dev.db\"" > .env
 Initialize the database:
 ```
 npm run db:push
-npm run db:generate
 ```
 
 Run the development server:
