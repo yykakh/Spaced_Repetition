@@ -42,8 +42,8 @@ SpaceLearn is a modern web application designed to help users master new concept
 
 Clone the repository:
 ```
-git clone [https://github.com/yourusername/space-learn.git](https://github.com/yourusername/space-learn.git)
-cd space-learn
+git clone [https://github.com/yourusername/Spaced_Repetition.git](https://github.com/yourusername/space-learn.git)
+cd Spaced_Repetition
 ```
 
 Install dependencies:
